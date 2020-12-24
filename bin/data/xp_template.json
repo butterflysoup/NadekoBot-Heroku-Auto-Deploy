@@ -9,7 +9,7 @@
       "Show": true,
       "FontSize": 40,
       "Pos": {
-        "X": 173,
+        "X": 108,
         "Y": 17
       }
     },
@@ -85,10 +85,10 @@
       "Bar": {
         "Show": true,
         "Global": {
-          "Color": "add8e6",
+          "Color": "f19e8e",
           "PointA": {
-            "X": 28,
-            "Y": 235
+            "X": 22,
+            "Y": 139
           },
           "PointB": {
             "X": 28,
@@ -98,7 +98,7 @@
           "Direction": 3
         },
         "Guild": {
-          "Color": "add8e6",
+          "Color": "f19e8e",
           "PointA": {
             "X": 28,
             "Y": 330
@@ -116,8 +116,8 @@
         "Show": false,
         "FontSize": 28,
         "Pos": {
-          "X": 35,
-          "Y": 225
+          "X": 22,
+          "Y": 199
         }
       },
       "Guild": {
@@ -144,8 +144,8 @@
     "Icon": {
       "Show": true,
       "Pos": {
-        "X": 196,
-        "Y": 67
+        "X": 175,
+        "Y": 41
       },
       "Size": {
         "X": 21,
@@ -157,8 +157,8 @@
       "Show": true,
       "FontSize": 35,
       "Pos": {
-        "X": 298,
-        "Y": 70
+        "X": 113,
+        "Y": 42
       }
     }
   }
