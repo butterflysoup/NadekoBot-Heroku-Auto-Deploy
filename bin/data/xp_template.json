@@ -14,7 +14,7 @@
       }
     },
     "Icon": {
-      "Show": true,
+      "Show": false,
       "Pos": {
         "X": 32,
         "Y": 10
