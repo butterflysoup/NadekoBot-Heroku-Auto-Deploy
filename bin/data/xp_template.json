@@ -87,12 +87,12 @@
         "Global": {
           "Color": "f19e8e",
           "PointA": {
-            "X": 22,
+            "X": 21,
             "Y": 139
           },
           "PointB": {
-            "X": 28,
-            "Y": 257
+            "X": 213,
+            "Y": 145
           },
           "Length": 346,
           "Direction": 3
@@ -100,12 +100,12 @@
         "Guild": {
           "Color": "f19e8e",
           "PointA": {
-            "X": 28,
-            "Y": 330
+            "X": 21,
+            "Y": 195
           },
           "PointB": {
-            "X": 28,
-            "Y": 352
+            "X": 213,
+            "Y": 199
           },
           "Length": 346,
           "Direction": 3
@@ -116,8 +116,8 @@
         "Show": false,
         "FontSize": 28,
         "Pos": {
-          "X": 22,
-          "Y": 199
+          "X": 21,
+          "Y": 195
         }
       },
       "Guild": {
