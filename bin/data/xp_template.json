@@ -7,7 +7,7 @@
     "Name": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 40,
+      "FontSize": 35,
       "Pos": {
         "X": 95,
         "Y": 3
@@ -27,7 +27,7 @@
     "GlobalLevel": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 26,
+      "FontSize": 20,
       "Pos": {
         "X": 171,
         "Y": 103
@@ -36,7 +36,7 @@
     "GuildLevel": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 26,
+      "FontSize": 20,
       "Pos": {
         "X": 170,
         "Y": 157
