@@ -39,7 +39,7 @@
       "FontSize": 18,
       "Pos": {
         "X": 171,
-        "Y": 149
+        "Y": 145
       }
     },
     "GlobalRank": {
@@ -74,10 +74,10 @@
       "Guild": {
         "Color": "ffffff",
         "Show": true,
-        "FontSize": 26,
+        "FontSize": 10,
         "Pos": {
-          "X": 166,
-          "Y": 205
+          "X": 170,
+          "Y": 201
         }
       }
     },
