@@ -27,19 +27,19 @@
     "GlobalLevel": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 18,
+      "FontSize": 15,
       "Pos": {
         "X": 171,
-        "Y": 88
+        "Y": 91
       }
     },
     "GuildLevel": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 20,
+      "FontSize": 15,
       "Pos": {
-        "X": 184,
-        "Y": 103
+        "X": 171,
+        "Y": 149
       }
     },
     "GlobalRank": {
@@ -144,7 +144,7 @@
     "Icon": {
       "Show": true,
       "Pos": {
-        "X": 175,
+        "X": 112,
         "Y": 41
       },
       "Size": {
@@ -158,7 +158,7 @@
       "FontSize": 35,
       "Pos": {
         "X": 166,
-        "Y": 36
+        "Y": 22
       }
     }
   }
