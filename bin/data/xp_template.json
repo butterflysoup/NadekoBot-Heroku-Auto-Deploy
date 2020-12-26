@@ -27,10 +27,10 @@
     "GlobalLevel": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 20,
+      "FontSize": 18,
       "Pos": {
         "X": 171,
-        "Y": 103
+        "Y": 94
       }
     },
     "GuildLevel": {
@@ -39,7 +39,7 @@
       "FontSize": 20,
       "Pos": {
         "X": 170,
-        "Y": 157
+        "Y": 149
       }
     },
     "GlobalRank": {
@@ -48,7 +48,7 @@
       "FontSize": 26,
       "Pos": {
         "X": 185,
-        "Y": 115
+        "Y": 108
       }
     },
     "GuildRank": {
@@ -57,7 +57,7 @@
       "FontSize": 26,
       "Pos": {
         "X": 186,
-        "Y": 170
+        "Y": 164
       }
     },
     "TimeOnLevel": {
@@ -68,7 +68,7 @@
         "FontSize": 10,
         "Pos": {
           "X": 166,
-          "Y": 83
+          "Y": 74
         }
       },
       "Guild": {
