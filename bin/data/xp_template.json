@@ -77,7 +77,7 @@
         "FontSize": 10,
         "Pos": {
           "X": 166,
-          "Y": 201
+          "Y": 206
         }
       }
     },
@@ -155,10 +155,10 @@
     "Name": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 35,
+      "FontSize": 13,
       "Pos": {
-        "X": 193,
-        "Y": 5
+        "X": 175,
+        "Y": 10
       }
     }
   }
