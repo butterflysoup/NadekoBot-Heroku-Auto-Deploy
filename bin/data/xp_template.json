@@ -76,7 +76,7 @@
         "Show": true,
         "FontSize": 10,
         "Pos": {
-          "X": 170,
+          "X": 166,
           "Y": 201
         }
       }
@@ -85,7 +85,7 @@
       "Bar": {
         "Show": true,
         "Global": {
-          "Color": "f19e8e",
+          "Color": "c9daf9",
           "PointA": {
             "X": 16,
             "Y": 132
@@ -98,7 +98,7 @@
           "Direction": 3
         },
         "Guild": {
-          "Color": "f19e8e",
+          "Color": "c9daf9",
           "PointA": {
             "X": 16,
             "Y": 187
@@ -157,7 +157,7 @@
       "Show": true,
       "FontSize": 35,
       "Pos": {
-        "X": 171,
+        "X": 193,
         "Y": 5
       }
     }
