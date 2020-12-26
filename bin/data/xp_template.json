@@ -45,7 +45,7 @@
     "GlobalRank": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 18,
+      "FontSize": 16,
       "Pos": {
         "X": 185,
         "Y": 108
@@ -54,7 +54,7 @@
     "GuildRank": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 18,
+      "FontSize": 16,
       "Pos": {
         "X": 186,
         "Y": 164
@@ -157,8 +157,8 @@
       "Show": true,
       "FontSize": 35,
       "Pos": {
-        "X": 166,
-        "Y": 22
+        "X": 171,
+        "Y": 5
       }
     }
   }
